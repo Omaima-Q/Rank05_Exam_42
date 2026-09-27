@@ -77,6 +77,7 @@ echo 'sdxddssaaww' | ./life 5 5 0 | cat -e
 ## Credits
 
 The solutions in this repository are based on the work of **fatkeski** (42 intra login), who passed Exam Rank 05 with the `vect2` and `life` exercises.
-I just did some changes on some functions in vect2 and tried to summarized it and make it simple as much as i can. Take a look at it. 
+
+I just did some changes on some functions in vect2 and tried to summarize it and make it simple as much as i can. Take a look at it. 
 
 This repository is for study only. Use it to learn the concepts, not to copy answers.
